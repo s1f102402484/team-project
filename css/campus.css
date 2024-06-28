@@ -2,10 +2,9 @@ h1 {
     text-align: center;
 }
 
-img {
+.image {
     text-align: center;
-    width: 150%;
 }
-html{
-    background-color: rgba(229, 207, 136, 0.365);
+.text {
+    padding-left: 250px;
 }
