@@ -2,7 +2,9 @@ h1 {
     text-align: center;
 }
 
-img {
+.image {
     text-align: center;
-    width: 150%;
+}
+.text {
+    padding-left: 250px;
 }
