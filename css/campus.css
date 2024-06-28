@@ -2,7 +2,6 @@ h1 {
     text-align: center;
 }
 
-img {
-    text-align: center;
-    width: 80%;
-}
+.img-box {
+    margin:0 auto;
+ }
